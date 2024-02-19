@@ -1,0 +1,15 @@
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.csproj.AssemblyReference.cache
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.AssemblyInfoInputs.cache
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.AssemblyInfo.cs
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.csproj.CoreCompileInputs.cache
+/Users/tianyuan/Projects/CookBook/CookieCookbook/bin/Debug/net7.0/CookieCookbook
+/Users/tianyuan/Projects/CookBook/CookieCookbook/bin/Debug/net7.0/CookieCookbook.deps.json
+/Users/tianyuan/Projects/CookBook/CookieCookbook/bin/Debug/net7.0/CookieCookbook.runtimeconfig.json
+/Users/tianyuan/Projects/CookBook/CookieCookbook/bin/Debug/net7.0/CookieCookbook.dll
+/Users/tianyuan/Projects/CookBook/CookieCookbook/bin/Debug/net7.0/CookieCookbook.pdb
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.dll
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/refint/CookieCookbook.dll
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.pdb
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/CookieCookbook.genruntimeconfig.cache
+/Users/tianyuan/Projects/CookBook/CookieCookbook/obj/Debug/net7.0/ref/CookieCookbook.dll
