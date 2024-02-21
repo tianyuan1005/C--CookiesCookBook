@@ -10,9 +10,15 @@
   <ItemGroup>
     <None Remove="Recipes\" />
     <None Remove="Recipes\Ingredients\" />
+    <None Remove="DataAccess\" />
+    <None Remove="FileAccess\" />
+    <None Remove="App\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Recipes\" />
     <Folder Include="Recipes\Ingredients\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="FileAccess\" />
+    <Folder Include="App\" />
   </ItemGroup>
 </Project>
